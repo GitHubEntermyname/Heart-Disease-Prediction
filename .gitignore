@@ -1,0 +1,28 @@
+
+---
+
+## 📄 .gitignore
+
+```gitignore
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.pkl
+*.h5
+*.joblib
+
+# Jupyter Notebook metadata
+.ipynb_checkpoints/
+
+# Dataset and model files
+*.csv
+*.sav
+*.npy
+*.npz
+
+# Environment files
+.env
+.venv/
+*.log
+*.tmp
