@@ -1,0 +1,6 @@
+# Normalize line endings
+* text=auto
+
+# Treat Python and notebook files as text
+*.py text
+*.ipynb text
